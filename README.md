@@ -60,7 +60,7 @@ Library lain di atas belum terpasang, jadi kalian yang install dan setup sendiri
 - Figma desain: https://www.figma.com/design/mOJNvaD7zbyo5ZPdMEehOo/Restaurant-App---assignment-10
 - API base URL: `https://be-restaurant-production.up.railway.app`
 - API docs (Swagger): https://be-restaurant-production.up.railway.app/api-swagger/
-
+- project vercel link : [Project Vercel Link](https://nicefood-ruby.vercel.app/) 
 Semua endpoint diawali prefix `/api`. Untuk endpoint yang butuh login, kirim header:
 
 ```
